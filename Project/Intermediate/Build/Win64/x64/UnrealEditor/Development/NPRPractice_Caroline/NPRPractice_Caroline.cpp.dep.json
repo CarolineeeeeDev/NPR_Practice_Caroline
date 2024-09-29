@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\nprpractice_caroline\\source\\nprpractice_caroline\\nprpractice_caroline.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\nprpractice_caroline\\intermediate\\build\\win64\\x64\\nprpractice_carolineeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\nprpractice_caroline\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nprpractice_caroline\\definitions.nprpractice_caroline.h",
+            "d:\\github\\nprpractice_caroline\\source\\nprpractice_caroline\\nprpractice_caroline.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NPRPractice_Caroline.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Github\NPRPractice_Caroline\Intermediate\Build\Win64\x64\NPRPractice_CarolineEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Github\NPRPractice_Caroline\Intermediate\Build\Win64\x64\UnrealEditor\Development\NPRPractice_Caroline\NPRPractice_Caroline.cpp.obj"
+"D:\Github\NPRPractice_Caroline\Intermediate\Build\Win64\x64\UnrealEditor\Development\NPRPractice_Caroline\Default.rc2.res"
+/OUT:"D:\Github\NPRPractice_Caroline\Intermediate\Build\Win64\x64\UnrealEditor\Development\NPRPractice_Caroline\UnrealEditor-NPRPractice_Caroline.lib"

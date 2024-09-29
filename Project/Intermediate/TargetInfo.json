@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NPRPractice_Caroline",
+			"Path": "..\\Source\\NPRPractice_Caroline.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NPRPractice_CarolineEditor",
+			"Path": "..\\Source\\NPRPractice_CarolineEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
